@@ -426,11 +426,11 @@
         </div>
         
         <div class="social-grid">
-            <a href="https://twitter.com/luminagames" class="social-link" target="_blank">
+            <a href="https://twitter" class="social-link" target="_blank">
                 <span class="social-icon">🐦</span>
                 Twitter
             </a>
-            <a href="https://instagram.com/luminagames" class="social-link" target="_blank">
+            <a href="https://instagrams" class="social-link" target="_blank">
                 <span class="social-icon">📷</span>
                 Instagram
             </a>
